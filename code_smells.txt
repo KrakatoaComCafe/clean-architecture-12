@@ -1,0 +1,49 @@
+Code Smells:
+
+1 - nomes ruins
+
+É um nome de variável, método, função, classe, arquivo, que não é suficientemente claro
+
+Técnica de rafactoring:
+- renomear variável
+- renomear método
+- renomear função
+- renomear classe
+- renomear arquivo
+
+2 - linhas em branco
+
+Técnica de refactoring:
+- apagar linhas em branco dentro de métodos e funções
+
+3 - comentários
+
+Técnica de refactoring
+- introduzir variável explicativa
+- extrair métodos e funções
+
+4 - código morto
+
+Técnica de refactoring
+- apagar código
+
+5 - condições confusas e aninhadas
+
+Técnica de refactoring
+- introduzir cláusulas de guarda (inverter as condições, e interromper o fluxo de execução para eliminar o else)
+- extrair condições
+- consolidar condições
+- introduzir ternário
+
+6 - tratamento inadequado de erros ou exceções
+
+técnicas de refactoring
+
+- tratar adequadamente os erros ou exceções
+
+7 - números mágicos
+
+técnicas de refactoring
+
+- extrair constantes
+- extrair variáveis explicativas

@@ -1,0 +1,5 @@
+yarn init -y
+yarn add express @types/express jest @types/jest axios ts-node ts-jest nodemon typescript
+npx tsc --init
+npx ts-jest config:init
+npx nodemon .\src\main.ts

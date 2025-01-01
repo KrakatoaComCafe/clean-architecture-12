@@ -1,0 +1,7 @@
+SOLID Principles
+
+Rígido, Frágil e Imóvel
+
+SRP - Single Responsibility Principle
+
+ 
